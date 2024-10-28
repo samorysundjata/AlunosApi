@@ -2,21 +2,21 @@
 
 ![.NET 8](https://img.shields.io/badge/.NET-8-blue)
 ![Status da Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Licença](https://img.shields.io/badge/license-MIT-green)
+![Licenï¿½a](https://img.shields.io/badge/license-MIT-green)
 
-## Descrição
-AlunosApi é uma API RESTful construída com .NET 8 para gerenciar informações de alunos. Ela fornece endpoints para criar, ler, atualizar e deletar registros de alunos. Esta API é projetada para ser simples, eficiente e fácil de integrar com outros sistemas.
+## Descriï¿½ï¿½o
 
-## Instalação
+AlunosApi ï¿½ uma API RESTful construï¿½da com .NET 8 para gerenciar informaï¿½ï¿½es de alunos. Ela fornece endpoints para criar, ler, atualizar e deletar registros de alunos. Esta API ï¿½ projetada para ser simples, eficiente e fï¿½cil de integrar com outros sistemas.
 
-1. Clone o repositório:
-2. Instale as dependências necessárias:
+## Instalaï¿½ï¿½o
+
+1. Clone o repositï¿½rio:
+2. Instale as dependï¿½ncias necessï¿½rias:
 
 ## Executando a API
 
 1. Construa o projeto:
 2. Execute o projeto:
-3. A API estará disponível em `https://localhost:5001` ou `http://localhost:5000`.
+3. A API estarï¿½ disponï¿½vel em `https://localhost:5001` ou `http://localhost:5000`.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT.
+Este projeto estÃ¡ licenciado sob a LicenÃ§a GNU Affero General Public License.
