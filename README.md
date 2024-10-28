@@ -20,4 +20,3 @@ AlunosApi é uma API RESTful construída com .NET 8 para gerenciar informações de 
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT.
-# AlunosApi
